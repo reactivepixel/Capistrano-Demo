@@ -51,4 +51,5 @@ production:
   <<: *default
   database: cap_demo_production
   username: cap_demo
-  password: <%= ENV['CAP_DEMO_DATABASE_PASSWORD'] %>
+  password: 3kbvk]^WRK3e$6QQiY.v(VED.b9xKkrTd]7H>enBzdh=6LAH^q
+   #<%= ENV['CAP_DEMO_DATABASE_PASSWORD'] %>
