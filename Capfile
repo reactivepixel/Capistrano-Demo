@@ -24,7 +24,7 @@ require 'capistrano/rails/migrations'
 # require 'capistrano/chruby'
 
 require 'capistrano/bundler'
-require 'capistrano/rbenv_install'
+# require 'capistrano/rbenv_install'
 
 # require 'capistrano/rails/assets'
 # require 'capistrano/rails/migrations'
